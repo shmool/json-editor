@@ -26,6 +26,9 @@ See the changes made to this file and to
 ## Contributing
 The main goal of this project is to learn.
 
+All the relevant code currently exists in the [app folder](https://github.com/shmool/json-editor/tree/main/src/app),
+specifically in the `ts` and `html` files.
+
 Feel free to start conversations on [issues](https://github.com/shmool/json-editor/issues) and suggest PRs.
 
 ## Stack
